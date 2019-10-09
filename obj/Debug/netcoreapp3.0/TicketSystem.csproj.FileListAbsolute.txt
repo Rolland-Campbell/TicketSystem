@@ -1,0 +1,11 @@
+C:\source\codeworks\csharp\TicketSystem\bin\Debug\netcoreapp3.0\TicketSystem.exe
+C:\source\codeworks\csharp\TicketSystem\bin\Debug\netcoreapp3.0\TicketSystem.deps.json
+C:\source\codeworks\csharp\TicketSystem\bin\Debug\netcoreapp3.0\TicketSystem.runtimeconfig.json
+C:\source\codeworks\csharp\TicketSystem\bin\Debug\netcoreapp3.0\TicketSystem.runtimeconfig.dev.json
+C:\source\codeworks\csharp\TicketSystem\bin\Debug\netcoreapp3.0\TicketSystem.dll
+C:\source\codeworks\csharp\TicketSystem\bin\Debug\netcoreapp3.0\TicketSystem.pdb
+C:\source\codeworks\csharp\TicketSystem\obj\Debug\netcoreapp3.0\TicketSystem.csprojAssemblyReference.cache
+C:\source\codeworks\csharp\TicketSystem\obj\Debug\netcoreapp3.0\TicketSystem.AssemblyInfoInputs.cache
+C:\source\codeworks\csharp\TicketSystem\obj\Debug\netcoreapp3.0\TicketSystem.AssemblyInfo.cs
+C:\source\codeworks\csharp\TicketSystem\obj\Debug\netcoreapp3.0\TicketSystem.dll
+C:\source\codeworks\csharp\TicketSystem\obj\Debug\netcoreapp3.0\TicketSystem.pdb
