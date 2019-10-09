@@ -12,7 +12,7 @@ namespace TicketSystem.Services
 
     public string ViewTickets()
     {
-      string template = "";
+      string template = ""; //set template as empty
 
       for (var i = 0; i < Tickets.Count; i++)
       {
